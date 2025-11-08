@@ -112,12 +112,4 @@ startup-mentor-chatbot/
 - **React UI not loading:**  
   Confirm your `App.css` is present and imported in `App.js`.
 
----
 
-## 📄 License
-
-MIT
-
----
-
-Made with ❤️ by [Your Name] · Powered by Ollama Llama 3
